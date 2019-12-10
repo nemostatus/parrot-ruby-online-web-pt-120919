@@ -1,1 +1,1 @@
-def parrot(string 
+def parrot(string = "squawk)"
